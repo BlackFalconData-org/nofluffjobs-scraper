@@ -203,7 +203,7 @@ No. Just sign up for Apify, paste your input, and click Start. No credit card re
 ## Related products by Black Falcon Data
 
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
-- [Indeed Job Scraper](https://apify.com/blackfalcondata/indeed-job-scraper?fpr=1h3gvi) — Indeed job listings with salary data
+- [Naukrigulf Scraper](https://apify.com/blackfalcondata/naukrigulf-scraper?fpr=1h3gvi) — Gulf region jobs (UAE, Saudi, Qatar, Kuwait)
 - [Glassdoor Job Scraper](https://apify.com/blackfalcondata/glassdoor-job-scraper?fpr=1h3gvi) — Glassdoor listings with company ratings
 - [Arbeitsagentur Scraper](https://apify.com/blackfalcondata/arbeitsagentur-scraper?fpr=1h3gvi) — Germany's official job portal (1M+ listings)
 - [SEEK Scraper](https://apify.com/blackfalcondata/seek-scraper?fpr=1h3gvi) — Australia & NZ's largest job board
@@ -229,4 +229,4 @@ Black Falcon Data builds production-grade web scrapers for job boards and market
 
 ---
 
-*Last updated: 2026 04*
+*Last updated: April 2026*
