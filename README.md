@@ -1,6 +1,6 @@
 # NoFluffJobs Scraper
 
-Extract structured data from [NoFluffJobs.com](https://NoFluffJobs.com) — NoFluffJobs.com — tech jobs from Poland, Hungary, Czech Republic, Slovakia, and the Netherlands. Get structured job data including salary and skill requirements. Incremental tracking mode included.
+Extract structured tech job data from [NoFluffJobs.com](https://nofluffjobs.com) — Poland, Hungary, Czech Republic, Slovakia, and the Netherlands. Get salary ranges, skill requirements, remote status, and company metadata. Incremental tracking mode included.
 
 **[NoFluffJobs Scraper on Apify →](https://apify.com/blackfalcondata/nofluffjobs-scraper?fpr=1h3gvi)**
 
@@ -171,8 +171,8 @@ Pay only for what you extract. No subscription required — Apify's free $5 cred
 
 | Event | Price (USD) |
 | --- | --- |
-| Actor Start | $0.02 |
-| Result | $0.001 |
+| Actor Start | $0.005 |
+| Result | $0.002 |
 
 See the [actor on Apify](https://apify.com/blackfalcondata/nofluffjobs-scraper?fpr=1h3gvi) for current pricing.
 
